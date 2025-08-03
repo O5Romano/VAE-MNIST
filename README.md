@@ -1,0 +1,2 @@
+# VAE-MNIST
+A CNN based VAE for MNIST
